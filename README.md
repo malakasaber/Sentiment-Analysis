@@ -1,7 +1,3 @@
-Got it 👍 Since your project is about running a **Streamlit app in Google Colab and exposing it with Cloudflare Tunnel**, here’s a **professional README.md** you can use and tweak:
-
----
-
 # Brain Tumor Classification & Segmentation (Streamlit + Colab + Cloudflare Tunnel)
 
 This project demonstrates how to run a **Streamlit app inside Google Colab** and expose it to the web securely using **Cloudflare Tunnel**.
