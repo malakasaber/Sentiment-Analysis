@@ -71,8 +71,8 @@ At the end, you’ll get a **public URL** to access your app 🎉.
 
 ## 📸 Screenshots
 
-![Streamlit1](images/screenshot1.png)
-![Streamlit2_Result](images/screenshot1.png)
+![Streamlit1](imagesStreamLit/screenshot1.png)
+![Streamlit2_Result](imagesStreamLit/screenshot1.png)
 
 ---
 
